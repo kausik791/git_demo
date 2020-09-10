@@ -15,6 +15,7 @@ public class Test4 {
 		m.put(3,"rahul");
 		m.put(4,"sumit");
 		System.out.println(m);
+		System.out.println("adding x");
 		Map.Entry e;
 		Set s=m.entrySet();
 		Iterator itr=s.iterator();
